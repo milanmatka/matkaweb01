@@ -1,0 +1,194 @@
+{
+  "Header": {
+    "title": "Welcome to milaan matka 777",
+    "paragraph": "Welcome to our platform! Experience the best gaming experience with us."
+  },
+  "Colors": {
+    "primary": "#8B0000",
+    "secondary": "#00008B"
+  },
+  "About": {
+    "paragraph": "Milaan Matka 777 is your ultimate destination for thrilling and fast-paced Matka gaming. Inspired by the classic Satta Matka tradition, our app brings a modern twist to an age-old game of luck and numbers. Whether you're a seasoned player or a curious beginner, Milaan Matka 777 offers a smooth, secure, and exciting gaming experience right at your fingertips.",
+    "Why": [
+      "Instant & Transparent Results",
+      "Fast & Secure Payment",
+      "24/7 Customer Support",
+      "100% Secure Gameplay"
+    ],
+    "Why2": [
+      "Real-time Wallet Balance",
+      "No Hidden Fees",
+      " User-Friendly Interface",
+      "Trusted by Thousands"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "title": "Starline Results",
+      "result": "123",
+      "time": "Morning",
+      "date": "21 May 2025"
+    },
+    {
+      "title": "Starline Results",
+      "result": "456",
+      "time": "Afternoon",
+      "date": "21 May 2025"
+    },
+    {
+      "title": "Starline Results",
+      "result": "789",
+      "time": "Night",
+      "date": "21 May 2025"
+    }
+  ],
+  "GameInstructions": [
+    {
+      "title": "Register Account",
+      "description": "Create your account by providing basic details and verify your mobile number.",
+      "icon": "fa-user-plus"
+    },
+    {
+      "title": "Add Funds",
+      "description": "Deposit money using various payment methods .",
+      "icon": "fa-wallet"
+    },
+    {
+      "title": "Choose Market",
+      "description": "Select from different markets like Satta King, Kalyan, or Main Mumbai.",
+      "icon": "fa-chart-line"
+    },
+    {
+      "title": "Place Bet",
+      "description": "Choose your numbers and place your bet before the closing time.",
+      "icon": "fa-dice-d6"
+    },
+    {
+      "title": "Wait for Results",
+      "description": "Results are announced at fixed times. Check your winning status.",
+      "icon": "fa-clock"
+    },
+    {
+      "title": "Withdraw Winnings",
+      "description": "Withdraw your winnings anytime using the same payment methods.",
+      "icon": "fa-money-bill-wave"
+    }
+  ],
+  "HowToPlayImage": {
+    "title": "How to Play Matka",
+    "description": "Follow these simple steps to start playing Matka game",
+    "image": "/img/999.png"
+  },
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+91 6268348660",
+    "email": "milanmatka777@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com",
+    "instagram": "instagram.com/milanmatka777"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-clock-o",
+      "title": "24x7 Support",
+      "text": "Round the clock customer support for all your gaming needs"
+    },
+    {
+      "icon": "fa fa-shield",
+      "title": "Secure Gaming",
+      "text": "100% secure and fair gaming environment"
+    },
+    {
+      "icon": "fa fa-money",
+      "title": "Fast Payouts",
+      "text": "Quick and reliable withdrawals"
+    },
+    {
+      "icon": "fa fa-mobile",
+      "title": "Mobile Friendly",
+      "text": "Play anytime, anywhere on your mobile"
+    }
+  
+   
+  ]
+}
