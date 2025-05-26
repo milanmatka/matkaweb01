@@ -17,7 +17,7 @@ export const Header = (props) => {
                   <p className="header-paragraph">{props.data ? props.data.paragraph : "Loading"}</p>
                   <div className="header-buttons">
                     <a
-                      href="#features"
+                      href="https://drive.google.com/file/d/11xEpiaOCwmHYE_V_Hnb-cYXr9U2lx1NN/view?usp=sharing"
                       className="btn btn-custom btn-lg page-scroll"
                     >
                     download app
